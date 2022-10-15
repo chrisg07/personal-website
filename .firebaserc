@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "personal-website-86be6": {
+      "hosting": {
+        "personal-website": [
+          "personal-website-86be6"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "personal-website-86be6"
+  }
+}
